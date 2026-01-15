@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Competitive+Programmer+%7C+ML+Enthusiast+%7C+Code+Witch+%F0%9F%AA%84;Turning+Coffee+Into+Code+Since+2023+%E2%98%95;Bug+Hunter+%7C+Algorithm+Alchemist+%7C+Python+Charmer+%F0%9F%90%8D)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=2000&lines=Competitive+Programmer+(+I+Think+)+%7C+ML+Enthusiast+%7C+Code+Witch+Wannabe+%F0%9F%AA%84;Turning+Coffee+Into+Code+(+Barely+)+%E2%98%95;Bug+Hunter+%7C+Algorithm+Alchemist+%7C+Python+Charmer+%F0%9F%90%8D)
   
 </div>
 
@@ -71,9 +71,8 @@ print(me.what_i_do())  # Warning: May cause excessive coffee consumption
 ## 📊 GitHub Stats (The Numbers Game)
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ihaagrawal&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihaagrawal&layout=compact&langs_count=8&theme=radical"/>
+  
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ihaagrawal&theme=radical)
 
 </div>
 
@@ -85,19 +84,7 @@ print(me.what_i_do())  # Warning: May cause excessive coffee consumption
 
 ---
 
-## 🏆 GitHub Trophies (I Collect These Like Infinity Stones)
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ihaagrawal&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🎯 Current Quests
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ```javascript
 const currentMissions = {
@@ -124,6 +111,7 @@ const currentMissions = {
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/ihaagrawal24)
 
 *Status: WA → TLE → MLE → AC (hopefully)*
 
@@ -157,13 +145,13 @@ const currentMissions = {
 
 ```
 🎵 Current Vibe:
-┌─────────────────────────────────────┐
-│  ▶ Now Playing: Lofi Hip Hop        │
-│  🔊 ▰▰▰▰▰▰▰▱▱▱ 70%                   │
-│  ⏮  ⏯  ⏭                            │
-│                                     │
-│  🎧 Coding & Chill Radio            │
-└─────────────────────────────────────┘
+────────────────────────────────────
+  ▶ Now Playing: Lofi Hip Hop      
+  🔊 ▰▰▰▰▰▰▰▱▱▱ 70%          
+  ⏮  ⏯  ⏭                          
+                                      
+  🎧 Coding & Chill Radio           
+─────────────────────────────────────
 
 Music Needed For:
 • Bug Fixing: Death Metal 🤘
